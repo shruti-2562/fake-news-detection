@@ -40,6 +40,7 @@ title, text, subject, date, label
 ## Technologies Used
 
 * Python
+* HTML/CSS
 * Pandas
 * NumPy
 * Scikit-learn
@@ -77,7 +78,7 @@ http://localhost:8504
 ## Deployment
 
 **Live Website:**
-https://fake-news-detection-scq7yaagawmun3jjyp7clc.streamlit.app
+https://fake-news-detection-scq7yaagawmun3jjyp7clc.streamlit.app/
 
 ## Objective
 
